@@ -130,6 +130,8 @@ header {
 }
 .header-wrapper {
     max-width: 720px;
+    margin: 0 auto;
+    text-align: center;
 }
 .header-logo {
     width: 100%;
